@@ -90,9 +90,9 @@ Future work could focus on further refining the model to enhance its accuracy an
 
 Overall, this project underscores the value of combining advanced machine learning techniques with practical agricultural applications, paving the way for innovative and sustainable solutions in the farming industry.
 
+## Contact
 
-
-
+**MY LINKEDIN PROFILE** - https://www.linkedin.com/in/deepika2004/
 
 
 
